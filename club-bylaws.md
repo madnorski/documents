@@ -1,6 +1,6 @@
 # Madison Nordic Ski Club Inc.
 ## Bylaws
-## 2012 Revision
+## 2017 Revision
 
 ---
 
@@ -90,15 +90,16 @@ perform all other duties associated with the office of President.
 President and shall be responsible for planning and arranging the program at the 
 regular monthly meetings, as well as, presiding at Board meetings and regular 
 monthly Club meetings at the request of the Presidents. 
-1. The Treasurer/Secretary shall have custody of Club funds, shall disburse the 
+1. The Treasurer shall have custody of Club funds, shall disburse the 
 funds as may be determined by the Board and shall report to the Board at their 
 meetings, or as requested. The Treasurer will prepare an annual report on the 
 financial condition of the Club for the annual meeting. 
-1. The Newsletter Editor shall be responsible for producing a Club Newsletter which 
-may be printed or online. 
+1. The Secretary shall be responsible for taking minutes of the Board meetings, 
+archiving  the minutes. The Secretary shall be responsible for archiving the 
+Club Bylaws.
 1. The Publicity Officer shall be responsibility for informing the media, retail outlets 
 and other organizations of Club activities and events. The Publicity officer shall 
-assist the Newsletter Editor with club communications.
+assist the board with club communications.
 1. The Advertising/Promotions Officer shall be responsible for interfacing with 
 retail outlets to coordinate advertising deals for the Club Newsletter, establish club 
 discount programs, and secure vendors to participate in the vendor fair and waxing 
