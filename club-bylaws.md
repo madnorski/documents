@@ -15,7 +15,7 @@ This organization shall be known as the Madison Nordic Ski Club, Inc. (MadNorSki
 In addition to the purpose specified in the Articles of Incorporation, the purpose and 
 objectives of the Club shall be to promote and advance the sport of Nordic Skiing 
 through Club sponsored and organized trips, tours, races, social activities, lessons, 
-training clinics, and any other activities serving to advance the sport of crosscountry
+training clinics, and any other activities serving to advance the sport of cross country
 skiing. The Club shall foster and support youth skiing. The Club shall 
 promote youth programs and partner with organizations and take appropriate 
 action and fiscally responsible measures to advance skiing opportunities for youth 
@@ -113,7 +113,7 @@ meetings.
 1. The Membership officer shall oversee all aspect of membership; including 
 recruitment, renewals, and maintaining the Club’s membership database among 
 others duties.
-1. The Webmaster manages the Club’s online/internet activies such as the website 
+1. The Webmaster manages the Club’s online/internet activities such as the website 
 and online membership database. The webmaster coordinates online access and 
 provides technical assistance to the Board and Committee Chairs.
 1. A vacancy in any office shall be filled by the majority vote of the Board, to hold 
