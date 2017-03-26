@@ -138,7 +138,10 @@ Parks. The trails committee will work with those entities to foster the developm
 and effective maintenance of local ski trails.
 1. The Race Director is responsible for organizing, directing, advertising and 
 securing appropriate sponsorship for all club races.
-Article 8. Elections: 
+
+---
+
+### Article 8. Elections: 
 1. The election of officers shall take place at the annual (spring) meeting and officers 
 shall assume the duties of their office on May 1, the beginning of the new fiscal year.
 1. Candidates presented by the nominating committee shall be elected by a voice 
