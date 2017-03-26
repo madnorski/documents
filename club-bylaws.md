@@ -2,9 +2,13 @@
 ## Bylaws
 ## 2012 Revision
 
+---
+
 ### Article 1. Name:
 
 This organization shall be known as the Madison Nordic Ski Club, Inc. (MadNorSki)
+
+---
 
 ### Article 2. Purpose:
 
@@ -17,6 +21,8 @@ promote youth programs and partner with organizations and take appropriate
 action and fiscally responsible measures to advance skiing opportunities for youth 
 members. The club shall own equipment as necessary to foster the sport of Nordic 
 skiing and to meet the purpose of the organization.
+
+---
 
 ### Article 3. Membership:
 
@@ -40,6 +46,8 @@ special meeting.
 1. Special meetings may be called by the Presidents or by the Board. Seven days 
 advance notice must be sent to all members in good standing. 
 
+---
+
 ### Article 5. Board of Directors:
 
 1. The Board of Directors shall consist of the Club Officers and Committee chairs, 
@@ -61,6 +69,8 @@ Board prior to the event or program year.
 1. Expenditures of Club funds of over $200 for any one purpose must have Board 
 approval. Expenditures of less than $200 must have the approval of the Treasurer, a 
 Co-President, and one other Board member. 
+
+---
 
 ### Article 6. Officers:
 
@@ -108,6 +118,8 @@ pursuant to Article 9.
 1. All checks and drafts of the corporation may be signed by the Treasurer, a CoPresident
 or Vice-President. 
 
+---
+
 ### Article 7. Committees:
 
 1. Committees may be created by a majority of the Board of Directors. Each 
@@ -133,6 +145,8 @@ vote of the membership present, provided, however, if there is more than one
 candidate for any office, the election to such office shall be by ballot with the winner 
 being the nominee receiving the majority of the ballots cast. 
 
+---
+
 ### Article 9. Financial Records:
 
 1. All financial records of the Club shall be kept by the Treasurer. 
@@ -142,9 +156,13 @@ April.
 or events may be reimbursed at the discretion of the Club Committee Chair or 
 Officer responsible for the activity and the Treasurer. 
 
+---
+
 ### Article 10 Parliamentary Authority:
 
 In matters not covered by these By-Laws, Robert's Rules of Order shall govern. 
+
+---
 
 ### Article 11. Amendments:
 
@@ -154,6 +172,8 @@ quorum is present and provided further, that notice of such amendments shall hav
 been mailed and/or emailed to each member of the Club and posted on the internet 
 at least five (5) days before the meeting.
 
+---
+
 ### Article 12. Notice:
 
 Notice called for under these bylaws shall be sent via email or regular mail, postage 
@@ -161,6 +181,8 @@ prepaid, to the last address of the members specified in the club records. The
 member has the responsibility to notify the club of any change in address. In the 
 event the member or members claim that notice was not given, the burden of proof 
 shall be on the member or members. 
+
+---
 
 ### Article 13. Dissolution:
 
