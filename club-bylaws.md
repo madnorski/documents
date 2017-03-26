@@ -34,7 +34,11 @@ present at the annual meeting is required.
 1. A membership period runs from Nov 1 to October 31 the following year for all 
 new and renewal members. Membership is due Nov 1 of each year and membership 
 runs from the time the renewal funds are applied through the next Oct 31
-Article 4. Meetings:
+
+---
+
+### Article 4. Meetings:
+
 1. Regular meetings of the members shall be held monthly during ski season, the 
 number and dates to be set by the board. 
 1. The annual meeting of the Club shall be held during early Spring. 
